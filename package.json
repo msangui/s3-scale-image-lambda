@@ -1,0 +1,23 @@
+{
+  "name": "s3-scale-image-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msangui/s3-scale-image-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msangui/s3-scale-image-lambda/issues"
+  },
+  "homepage": "https://github.com/msangui/s3-scale-image-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.479.0",
+    "sharp": "^0.22.1"
+  }
+}

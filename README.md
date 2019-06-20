@@ -1,0 +1,1 @@
+# s3-scale-image-lambda

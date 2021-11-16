@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/msangui/s3-scale-image-lambda#readme",
   "dependencies": {
-    "aws-sdk": "^2.479.0",
+    "aws-sdk": "^2.814.0",
     "sharp": "^0.22.1"
   }
 }
